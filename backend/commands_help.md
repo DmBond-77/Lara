@@ -1,5 +1,6 @@
 pip install -r requirements.txt `install the all packages`
 E:\Program Files\PostgreSQL16\bin `the path to the env in windows`
+git remote add origin https://github.com/DmBond-77/Lara.git
 
 **command for postgresql**
 https://hasura.io/blog/top-psql-commands-and-flags-you-need-to-know-postgresql
